@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+**Python/PHP Developer • Gigging Musician • Exploring Music Tech**
+
+I'm a student and developer living at the intersection of 2 worlds: code and music. I build practical tools and explore how technology can expand creative possibilities.
+
+## 🛠️ Tech & Tools Stack
+- **Backend:** Python, PHP, MySQL
+- **Data & ML:** Pandas, NumPy, Scikit-learn
+- **Music:** Guitar Pro, Ableton, audio/MIDI processing
+- **Other:** Git, Docker, Linux
+
 <!--
 **YandurinLeon/YandurinLeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
