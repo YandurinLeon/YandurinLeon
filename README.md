@@ -7,7 +7,7 @@ I'm a student and developer living at the intersection of 2 worlds: code and mus
 ## 🛠️ Tech & Tools Stack
 - **Backend:** Python, PHP, MySQL
 - **Data & ML:** Pandas, NumPy, Scikit-learn
-- **Music:** Guitar Pro, Ableton, audio/MIDI processing
+- **Music:** Guitar Pro, Ableton, Logic Pro X, MuseScore, audio/MIDI processing
 - **Other:** Git, Docker, Linux
 
 ## 🎯 Interests & Exploration
