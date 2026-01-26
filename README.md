@@ -11,11 +11,11 @@ I'm a student and developer living at the intersection of 2 worlds: code and mus
 - **Other:** Git, Docker, Linux
 
 ## 🎯 Interests & Exploration
-I'm actively exploring and passionate about:
+I'm passionate about the intersection of technology and music. My current focus includes:
 *   **Music Technology:** Audio programming, digital signal processing (DSP), building tools for musicians.
 *   **Machine Learning Applications:** Data Analysis, Deep learning.
-*   **Intersection of Hardware & Software:** MIDI controllers, DIY audio interfaces, DIY guitar pedals, pedalboard programming, tube amp modeling.
-*   **Music Theory & Improvisation:** Especially in jazz and fusion contexts.
+*   **Hardware/Software Integration:** Designing MIDI controllers, DIY guitar pedals, amp modeling.
+*   **Music Theory & Improvisation:**  Deep dive into jazz/fusion harmony and improvisation.
 <!--
 **YandurinLeon/YandurinLeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
