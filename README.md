@@ -1,32 +1,9 @@
 ## Hi there 👋
 
-**Python/PHP Developer • Gigging Musician • Exploring Music Tech**
-
-I'm a student and developer living at the intersection of 2 worlds: code and music. I build practical tools and explore how technology can expand creative possibilities.
+**Junior Embedded CV Engineer
 
 ## 🛠️ Tech & Tools Stack
-- **Backend:** Python, PHP, MySQL
-- **Data & ML:** Pandas, NumPy, Scikit-learn
-- **Music:** Guitar Pro, Ableton, Logic Pro X, MuseScore, audio/MIDI processing
-- **Other:** Git, Docker, Linux
-
-## 🎯 Interests & Exploration
-I'm passionate about the intersection of technology and music. My current focus includes:
-*   **Music Technology:** Audio programming, digital signal processing (DSP), building tools for musicians.
-*   **Machine Learning Applications:** Data Analysis, Deep learning.
-*   **Hardware/Software Integration:** Designing MIDI controllers, DIY guitar pedals, amp modeling.
-*   **Music Theory & Improvisation:**  Deep dive into jazz/fusion harmony and improvisation.
-<!--
-**YandurinLeon/YandurinLeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** Python, C++
+- **Frameworks:** ROS2, Isaac ROS
+- **Libraries:** OpenCV, Numpy, OpenGL, Open3D and etc
+- **Other:** Git, Docker, Linux ( Ubuntu | Arch)
