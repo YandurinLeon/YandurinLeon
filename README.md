@@ -1,6 +1,5 @@
-## Hi there 👋
 
-**Junior Embedded CV Engineer
+**Junior Embedded CV Engineer **
 
 ## 🛠️ Tech & Tools Stack
 - **Languages:** Python, C++
