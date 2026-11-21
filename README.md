@@ -1,1 +1,1 @@
-Robotic / CV Engineer
+Robotics / CV Engineer
